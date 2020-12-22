@@ -1,4 +1,4 @@
-# Detecting_Financial_Fraud_with_ML
+# Detecting Financial Fraud with Machine Learning
 
 Perceptron, Neural Network and Random Forest classifications performed on "Synthetic Financial Datasets For Fraud Detection"
 
