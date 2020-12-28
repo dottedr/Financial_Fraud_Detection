@@ -7,8 +7,8 @@ dataset source: https://www.kaggle.com/ntnu-testimon/paysim1
 
 Files:
 
-1. Perceptron and Random Forests - author: Retigam
-
+1. Perceptron and Random Forests - author: [Retigam, Martin Ivanov][https://github.com/retigam]
+ 
 2. Exploratory Data Analysis
 
 3. Neural Network - Handling Imbalanced Dataset
